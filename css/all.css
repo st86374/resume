@@ -201,7 +201,7 @@ h4{
 .line1,.line2 {
   height: 5px;
   border-radius: .25em;
-  width: 35px;
+  width: 32px;
   background-color: #fff;
   transition: all .35s;
   position: relative;
@@ -225,11 +225,11 @@ h4{
     position: relative;
     transform: rotate(45deg) translate(2.813em, -1.25em);
     right: 2.813em;
-    top: -1px
+    top: -10px
     }
 .line2.active{
     transform: rotate(-45deg) translate(2.969em, 1.25em);
-    top: .5em;
+    top: 15px;
     right: 2.969em;
     }
 @media(max-width:768px){
