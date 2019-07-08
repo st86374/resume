@@ -698,7 +698,7 @@ height: 100vh;
   position: relative;
 }
 .cycle-slideshow>img{
-  width: 500px;
+  width: 350px;
 }
 .mask_w{
   background-color: rgba(0,0,0, 0);
@@ -739,6 +739,9 @@ height: 100vh;
   .works_main{
     display: block
 }
+.cycle-slideshow>img{
+  width: 500px;
+}
     }
     @media(max-width:375px){
       .works{
@@ -752,6 +755,8 @@ height: 100vh;
         width: 350px;
       }
         }
+
+
 
 
 
